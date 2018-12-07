@@ -18,7 +18,7 @@
 ;;; Code:
 
 (require 'cl-lib)
-(require 'helm)
+(require 'helm-source)
 (require 'helm-lib)
 (require 'helm-utils)
 (require 'info)
